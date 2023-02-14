@@ -1,6 +1,6 @@
 # Library - as a case study
 
-> Project is based on real-world [requirements]. The requirements coming from [ddd-by-examples] repository created by [Jakub Pilimon][jakub-pilimon].
+> Project is based on real-world [requirements]. The requirements coming from [ddd-by-examples] repository created by [Jakub Pilimon][jakub-pilimon]. The main purpose of this project is to learn Nest.js, Typescript, DDD, TDD, Event storming and other technologies.
 
 # Table of contents
 
